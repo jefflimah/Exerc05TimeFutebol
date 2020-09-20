@@ -1,0 +1,40 @@
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.exe
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.deps.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.runtimeconfig.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.runtimeconfig.dev.json
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.dll
+C:\Users\Jeff\Desktop\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.pdb
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.csprojAssemblyReference.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.AssemblyInfoInputs.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.AssemblyInfo.cs
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\staticwebassets\Ex05.StaticWebAssets.Manifest.cache
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\staticwebassets\Ex05.StaticWebAssets.xml
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.dll
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.pdb
+C:\Users\Jeff\Desktop\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.genruntimeconfig.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.exe
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.deps.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.runtimeconfig.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.runtimeconfig.dev.json
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.dll
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\bin\Debug\netcoreapp3.1\Ex05.pdb
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.csprojAssemblyReference.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.AssemblyInfoInputs.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.AssemblyInfo.cs
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\staticwebassets\Ex05.StaticWebAssets.Manifest.cache
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\staticwebassets\Ex05.StaticWebAssets.xml
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.dll
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.pdb
+C:\Users\Jeff\Downloads\Faculdade\4º Período\Ex05\Ex05\obj\Debug\netcoreapp3.1\Ex05.genruntimeconfig.cache
